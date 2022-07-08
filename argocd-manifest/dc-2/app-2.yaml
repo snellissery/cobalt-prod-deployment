@@ -24,7 +24,7 @@ spec:
 
   source:
 
-    path: application-manifet/app-2
+    path: application-manifet/dc-2/app-2
 
     repoURL: <repo>
 

@@ -16,7 +16,7 @@ spec:
 
   source:
 
-    path: argocd-manifest
+    path: argocd-manifest/dc-1
 
     repoURL: <repo>
 
